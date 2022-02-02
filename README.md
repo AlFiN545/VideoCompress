@@ -2,7 +2,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/AbirHasan2005/VideoCompress?color=blue&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/AbirHasan2005/VideoCompress?color=green&style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/AbirHasan2005/VideoCompress)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/AbirHasan2005/VideoCompress)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/https://github.com/AlFiN545/VideoCompress)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/AbirHasan2005/VideoCompress)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/AbirHasan2005/VideoCompress)
 ![GitHub contributors](https://img.shields.io/github/contributors/AbirHasan2005/VideoCompress?style=flat)
@@ -12,7 +12,7 @@
 [![Bot Support](https://img.shields.io/badge/Video%20Compress%20Bot-support%20group-blue)](https://t.me/LinuxRepository_OT)
 
 
-A Telegram Video Compressor Bot By [@AbirHasan2005](https://t.me/linux_repo). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
+A Telegram Video Compressor Bot By [AlFiN545](https://t.me/linux_repo). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
 
 ### Special Features:
 - Bot's Live Status on Channel
