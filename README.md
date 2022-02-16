@@ -32,7 +32,9 @@ A Telegram Video Compressor Bot By [AlFiN545](https://t.me/linux_repo). **This b
 
 ## Easy Deploy:
 <p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
-
+# Deploy To Railway
+	
+	[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FAlFiN545%2FVideoCompress&envs=API_HASH%2CAPP_ID%2CAUTH_USERS%2CBOT_USERNAME%2CDATABASE_URL%2CENV%2CFINISHED_PROGRESS_STR%2CLOG_CHANNEL%2CSESSION_NAME%2CTG_BOT_TOKEN%2CUN_FINISHED_PROGRESS_STR%2CUPDATES_CHANNEL&API_HASHDesc=Get+this+value+from+https%3A%2F%2Fmy.telegram.org&APP_IDDesc=Get+this+value+from+https%3A%2F%2Fmy.telegram.org&AUTH_USERSDesc=Allow+only+pre-defined+users+to+use+this+bot+as+Sudo+User.+Separate+with+Space.+Just+for+using+Admin+Commands.&BOT_USERNAMEDesc=Your+Bot+Username.+Without+%60%40%60+before+Username%21&DATABASE_URLDesc=Your+MongoDB+URL+for+Database.+Ask+in+Support+Group%3A+https%3A%2F%2Ft.me%2Flinux_repo&ENVDesc=Setting+this+to+ANYTHING+will+enable+VARs+when+in+ENV+mode&FINISHED_PROGRESS_STRDesc=Should+be+a+single+character.&LOG_CHANNELDesc=Your+Bot%27s+Log+Channel%27s+Username.+For+Help+ask+in+%40linux_repo&SESSION_NAMEDesc=Keep+this+default&TG_BOT_TOKENDesc=Your+bot+token%2C+as+a+string.+Get+this+from+%40BotFather&UN_FINISHED_PROGRESS_STRDesc=Should+be+a+single+character.&UPDATES_CHANNELDesc=Do+Force+Sub%21+Add+your+Channel+username+which+you+want+to+do+Force+Sub.+Read+README.md+file+first%21&AUTH_USERSDefault=1232492076+1030177903+856827468&BOT_USERNAMEDefault=cpsycompressorbot&ENVDefault=ANYTHING&SESSION_NAMEDefault=AHCompressBot&referralCode=1NhDkt)
 #### Video Tutorial:
 [![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/gMRsSqaUkio)
 
